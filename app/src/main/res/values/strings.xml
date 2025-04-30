@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpectacleAPP</string>
+    <string name="_0">0</string>
+    <string name="increment">Increment</string>
+    <string name="enter_text">Enter text</string>
+    <string name="spectacle_image">Spectacle Image</string>
+    <string name="profile_icon">Profile Icon</string>
+
+</resources>
