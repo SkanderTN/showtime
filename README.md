@@ -44,16 +44,6 @@ L'application Android utilise la bibliothèque **Volley** pour interagir avec le
 
 ---
 
-## 🧪 Données de test (extrait)
-
-| Titre                  | Date       | Heure  | Lieu                        |
-|------------------------|------------|--------|-----------------------------|
-| La Nuit des Stars      | 25-AVR-25  | 20:00  | Palais Lumière - Tunis      |
-| Soirée Humoristique    | 10-MAI-25  | 20:15  | Salle RireMax - Sousse      |
-| Jazz & Chill           | 15-AOUT-25 | 21:00  | Lac Center - Tunis          |
-
----
-
 ## 🧩 Outils utilisés
 
 - Android Studio Arctic Fox
